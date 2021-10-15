@@ -40,7 +40,7 @@ Use the command - gcloud container clusters create --machine-type n1-standard-2 
 * sa-webapp - https://hub.docker.com/r/adityadw/sentiment-analysis-web-app
 * sa-frontend - https://hub.docker.com/r/adityadw/sentiment-analysis-frontend
 ## Video Recording
-URL - https://youtu.be/FgSfZOKnV-s
+URL - https://drive.google.com/file/d/1yISSLFMjvziiwlldxPc4I3WmfT28PRvF/view?usp=sharing
 
 ## Steps to build and push docker images
 * git clone https://github.com/rinormaloku/k8s-mastery.git
