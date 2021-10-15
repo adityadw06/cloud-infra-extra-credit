@@ -35,3 +35,8 @@ Use the command - gcloud container clusters create --machine-type n1-standard-2 
 * kubernetes_web_app.PNG - screenshot showing webapp running on public IP
 * kubernetes_front_end_service_details.PNG - front end servive details showing the public IP
 * kubernetes_web_app_components.PNG - screenshot showing all the web app components deployed
+### Docker-Hub Images URL
+* sa-logic - https://hub.docker.com/r/adityadw/sentiment-analysis-logic
+* sa-webapp - https://hub.docker.com/r/adityadw/sentiment-analysis-web-app
+* sa-frontend - https://hub.docker.com/r/adityadw/sentiment-analysis-frontend
+
