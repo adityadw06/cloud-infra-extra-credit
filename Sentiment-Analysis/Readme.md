@@ -31,3 +31,7 @@ Use the command - gcloud container clusters create --machine-type n1-standard-2 
 * Launch the deploymet using - kubectl apply -f sa-frontend-deployment.yaml --record
 * Configure the service as above mapping internal port 80 to external port 80
 * Deploy the service using - kubectl apply -f service-sa-frontend-lb.yaml
+### Screenshots
+* kubernetes_web_app.PNG - screenshot showing webapp running on public IP
+* kubernetes_front_end_service_details.PNG - front end servive details showing the public IP
+* kubernetes_web_app_components.PNG - screenshot showing all the web app components deployed
